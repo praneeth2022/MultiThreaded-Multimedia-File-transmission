@@ -10,7 +10,5 @@ Developed an application which has the following features:
 
 3.Show the results of multithreading over a single threaded transfer.
 
-Detailed Explaination here: https://github.com/praneeth2022/MultiThreaded-Multimedia-File-transmission/blob/main/MultiThreaded-Multimedia-File-transmission.pdf
-
-
+Detailed Explaination is in MultiThreaded-Multimedia-File-transmission.pdf
 
